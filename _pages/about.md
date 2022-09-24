@@ -15,7 +15,7 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 Je suis enseignant-chercheur à l'université de Caen. Je m’intéresse à la caractérisation des structures spatiales et à leur rôle fonctionnel dans les logiques de localisation des phénomènes géographiques. En particulier, je cherche à mieux comprendre le rôle des **effets de contexte** dans la production de l'**hétérogénéité spatiale** et dans la répartition des objets géographiques à différentes échelles.
