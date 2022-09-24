@@ -25,4 +25,4 @@ nav_order: 1
 
 0. Le Boennec R., Bulteau J., **Feuillet T.**, 2022. [The role of commuter rail accessibility in the formation of residential land values: Exploring spatial heterogeneity in peri-urban and remote areas](https://link.springer.com/article/10.1007/s00168-022-01113-1). ***The annals of regional science***, 69, 163-186.
 
-Pilkington H., **Feuillet T.**, Rican S., Goupil de Bouillé J., Cailhol J., Bihan H., Lombrail P., Julia C., 2021. [Spatial determinants of excess all-cause mortality during the first wave of the COVID-19 epidemic in France](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-12203-8). ***BMC public health***, 21, 2157.
+0. Pilkington H., **Feuillet T.**, Rican S., Goupil de Bouillé J., Cailhol J., Bihan H., Lombrail P., Julia C., 2021. [Spatial determinants of excess all-cause mortality during the first wave of the COVID-19 epidemic in France](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-12203-8). ***BMC public health***, 21, 2157.

@@ -2,15 +2,15 @@
 layout: about
 title: Bio
 permalink: /
-subtitle: Professeur de géographie | <a href='http://seggat.unicaen.fr/'>Université de Caen Normandie - UFR SEGGAT</a> | <a href='https://umr-idees.fr//'>UMR 6266 CNRS - IDEES</a>
+subtitle: Professeur de géographie | <a href='http://seggat.unicaen.fr/'>Université de Caen Normandie</a> | <a href='https://umr-idees.fr//'>UMR 6266 CNRS - IDEES</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Université de Caen | UFR SEGGAT | Bureau A240</p>
-    <p>Campus 1, Bâtiment A, Esplanade de la paix - CS 14032</p>
+    <p>UNICAEN | UFR SEGGAT</p>
+    <p>Campus 1, Bâtiment A, Esplanade de la paix</p>
     <p>14032 CAEN cedex 5 (France)</p>
 
 news: false  # includes a list of news items
