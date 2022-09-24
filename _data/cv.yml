@@ -3,10 +3,10 @@
   contents:
     - name: Full Name
       value: Thierry Feuillet
-    - name: Date of Birth
-      value: 11 mai 1983
-    - name: Languages
-      value: Français, anglais
+    # - name: Date of Birth
+    #   value: 11 mai 1983
+    # - name: Languages
+    #   value: Français, anglais
 
 - title: Diplômes
   type: time_table
