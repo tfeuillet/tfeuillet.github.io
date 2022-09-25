@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: ANR SpatialTreeP
 description: a project with a background image
 img: assets/img/st.jpg
 importance: 1
