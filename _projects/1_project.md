@@ -7,6 +7,9 @@ importance: 1
 category: work
 ---
 
+- ANR | 2022-2025
+- Coordination : T. Feuillet (Univ. Caen, UMR IDEES)
+
 **Site officiel du projet : [ANR SpatialTreeP](https://tfeuillet.gitpages.huma-num.fr/spatialtreep/)**
 
 <div class="row">
