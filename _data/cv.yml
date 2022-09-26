@@ -1,12 +1,34 @@
 - title: Informations générales
   type: map
   contents:
-    - name: Nom
-      value: Thierry Feuillet
+    # - name: Nom
+    #   value: Thierry Feuillet
     # - name: Date of Birth
     #   value: 11 mai 1983
     # - name: Languages
     #   value: Français, anglais
+
+
+- title: Parcours | *Experience*
+  type: time_table
+  contents:
+    - title: Professeur des universités | *Full professor*
+      institution: Université de Caen Normandie
+      year: 2022 -
+      description:
+        - Attache à l'UMR CNRS 6266 IDEES.
+        - Enseignements en géomatique et analyse spatiale.
+
+    - title: Chercheur CNRS en délégation
+      institution: UMR 5600 EVS - Lyon
+      year: 2020-2022
+
+    - title: Maître de conférences
+      institution: Université Paris 8 Vincennes-Saint-Denis
+      year: 2015-2022
+      description:
+        - Attache à l'UMR CNRS 7533 LADYSS.
+        - Enseignements en géomatique, statistiques et géographie physique.
 
 - title: Diplômes
   type: time_table
@@ -27,26 +49,6 @@
       institution: Université Paris IV
       year: 2004
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professeur des universités
-      institution: Université de Caen Normandie
-      year: 2022 -
-      description:
-        - Attache à l'UMR CNRS 6266 IDEES.
-        - Enseignements en géomatique et analyse spatiale.
-
-    - title: Chercheur CNRS en délégation
-      institution: UMR 5600 EVS - Lyon
-      year: 2020-2022
-
-    - title: Maître de conférences
-      institution: Université Paris 8 Vincennes-Saint-Denis
-      year: 2015-2022
-      description:
-        - Attache à l'UMR CNRS 7533 LADYSS.
-        - Enseignements en géomatique, statistiques et géographie physique.
 
 #
 #
