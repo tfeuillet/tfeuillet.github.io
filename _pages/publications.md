@@ -23,6 +23,7 @@ nav_order: 1
 
 - **Feuillet T.**, Cossart E., Commenges H., 2019. [*Manuel de géographie quantitative. Concepts, outils, méthodes*](https://www.armand-colin.com/manuel-de-geographie-quantitative-concepts-outils-methodes-9782200622336). A. Colin, Paris, 192 p.
 
+
 ### Articles | *Papers* ###
 
 ##### 2022 ####
