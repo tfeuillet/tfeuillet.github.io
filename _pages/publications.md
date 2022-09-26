@@ -19,11 +19,11 @@ nav_order: 1
 
 {: reversed="reversed"}
 
-### Ouvrage ###
+### Ouvrage | *Book* ###
 
 - **Feuillet T.**, Cossart E., Commenges H., 2019. [*Manuel de géographie quantitative. Concepts, outils, méthodes*](https://www.armand-colin.com/manuel-de-geographie-quantitative-concepts-outils-methodes-9782200622336). A. Colin, Paris, 192 p.
 
-### Articles ###
+### Articles | *Papers* ###
 
 ##### 2022 ####
 - Guillien A., Bédard A., Dumas O., Allegre J., Arnault N., Bochaton A., Druesne-Pecollo N., Dumay D., Fezeu L., Hercberg S., Le Moual N., Pilkington H., Rican S., Sit G., Szabo de Edelenyi F., Touvier M., Galan P., **Feuillet T.**, Varraso R., Siroux V., 2022. [Exposome profiles and asthma among French adults](https://www.atsjournals.org/doi/abs/10.1164/rccm.202205-0865OC). ***American journal of respiratory and critical care medicine***.
