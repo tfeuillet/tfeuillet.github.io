@@ -13,39 +13,39 @@
   type: time_table
   contents:
     - title: Professeur des universités | <i>Full professor</i>
-      institution: Université de Caen Normandie
+      institution: Université de Caen Normandie - Département de géographie
       year: 2022 -
       description:
-        - Attache à l'UMR CNRS 6266 IDEES.
+        - Membre de l'UMR CNRS 6266 IDEES.
         - Enseignements en géomatique et analyse spatiale.
 
-    - title: Chercheur CNRS en délégation | Researcher
+    - title: Chercheur CNRS en délégation | <i>CNRS researcher</i>
       institution: UMR 5600 EVS - Lyon
       year: 2020-2022
 
-    - title: Maître de conférences | Associate professor
-      institution: Université Paris 8 Vincennes-Saint-Denis
+    - title: Maître de conférences | <i>Associate professor</i>
+      institution: Université Paris 8 Vincennes-Saint-Denis - Département de géographie
       year: 2015-2022
       description:
-        - Attache à l'UMR CNRS 7533 LADYSS.
+        - Membre de l'UMR CNRS 7533 LADYSS.
         - Enseignements en géomatique, statistiques et géographie physique.
 
-- title: Diplômes | Diploma
+- title: Diplômes | Education
   type: time_table
   contents:
     - title: Habilitation à diriger des recherches | Accreditation to supervise research
       institution: Université Lyon 3 Jean Moulin
       year: 2021
       description:
-        - Les effets de contexte en géographie - des fondements théoriques à la modélisation statistique.
+        - <i><a href="https://tel.archives-ouvertes.fr/tel-03357283/">Les effets de contexte en géographie - des fondements théoriques à la modélisation statistique</a></i>.
         - Jury - Etienne Cossart (garant), Lena Sanders (rapporteure), Jean-Michel Oppert (rapporteur), Hugo Pilkington (rapporteur), Arnaud Banos (examinateur) et Virginie Chasles (présidente).
-    - title: Doctorat | PhD
+    - title: Doctorat de géographie | <i>PhD in Geography</i>
       institution: Université de Nantes
       year: 2010
       description:
-        - Les formes périglaciaires dans les Pyrénées centrales - analyse spatiale, chronologique et valorisation.
+        - <i>Les formes périglaciaires dans les Pyrénées centrales - analyse spatiale, chronologique et valorisation</i>.
         - Jury - Pascal Bertran (directeur de thèse), Denis Mercier (co-encadrant de thèse), Emmanuel Reynard (rapporteur), Marie-Françoise André (rapporteur), Jean-Pierre Peulvast (examinateur) et Jean-Paul Métailié (examinateur).
-    - title: DEA de géomorphologie
+    - title: DEA de géomorphologie | <i>Master of Geomorphology</i>
       institution: Université Paris IV
       year: 2004
 
