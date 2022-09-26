@@ -56,3 +56,9 @@ nav_order: 1
 
 ##### 2017 #####
 - Cossart E., Mercier D., Coquin J., Decaulne A., **Feuillet T.**, Jónsson H.P., Sæmundsson Þ., 2017. [Denudation rates during a postglacial sequence in Northern Iceland : example of Laxárdalur valley in the Skagafjörður area](http://www.tandfonline.com/doi/pdf/10.1080/04353676.2017.1327320). ***Geografiska Annaler***: Series A, 1--22
+
+- Mercier D., Coquin J., **Feuillet T.**, Decaulne A., Cossart E., Jónsson H.P., Sæmundsson Þ., 2017. [Are Icelandic rock-slope failures paraglacial ? Age evaluation of seventeen rock-slope failures in the Skagafjörður area, based on geomorphological stacking, radiocarbon dating and tephrochronology](http://www.sciencedirect.com/science/article/pii/S0169555X17303173). ***Geomorphology***, 296, 45–58.
+
+- Perchoux C., Enaux C., Oppert J.-M., Menai M., Charreire H., Salze P., Hercberg S., **Feuillet T.**, Hess F., Roda C., Simon C., Nazare J.-A., 2017. [Individual, social, and environmental correlates of active transportation patterns in French women](https://www.hindawi.com/journals/bmri/2017/9069730/). ***BioMed Research International***, Art. 9069730.
+
+- Perchoux C., Nazare J.A., Benmarhnia T., Salze P., **Feuillet T.**, Herberg S., Hess F., Menai M., Weber C., Charreire H., Enaux C., Oppert J.M., Simon C., 2017. [Neighborhood educational disparities in active commuting among women : the effect of distance between the place of residence and the place of work/study (an ACTI-Cités study)](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-017-4464-8). ***BMC Public Health***, 17, 569.

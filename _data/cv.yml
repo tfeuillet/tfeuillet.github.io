@@ -1,7 +1,7 @@
-- title: General Information
+- title: Informations générales
   type: map
   contents:
-    - name: Full Name
+    - name: Nom
       value: Thierry Feuillet
     # - name: Date of Birth
     #   value: 11 mai 1983
@@ -15,14 +15,14 @@
       institution: Université Lyon 3 Jean Moulin
       year: 2021
       description:
-        - title: Les effets de contexte en géographie : des fondements théoriques à la modélisation statistique.
-        - title: Jury : Etienne Cossart (garant), Lena Sanders (rapporteure), Jean-Michel Oppert (rapporteur), Hugo Pilkington (rapporteur), Arnaud Banos (examinateur) et Virginie Chasles (présidente).
+        - Les effets de contexte en géographie - des fondements théoriques à la modélisation statistique.
+        - Jury - Etienne Cossart (garant), Lena Sanders (rapporteure), Jean-Michel Oppert (rapporteur), Hugo Pilkington (rapporteur), Arnaud Banos (examinateur) et Virginie Chasles (présidente).
     - title: Doctorat
       institution: Université de Nantes
       year: 2010
       description:
-        - title: Les formes périglaciaires dans les Pyrénées centrales : analyse spatiale, chronologique et valorisation.
-        - title: Jury : Pascal Bertran (directeur de thèse), Denis Mercier (co-encadrant de thèse), Emmanuel Reynard (rapporteur), Marie-Françoise André (rapporteur), Jean-Pierre Peulvast (examinateur) et Jean-Paul Métailié (examinateur).
+        - Les formes périglaciaires dans les Pyrénées centrales - analyse spatiale, chronologique et valorisation.
+        - Jury - Pascal Bertran (directeur de thèse), Denis Mercier (co-encadrant de thèse), Emmanuel Reynard (rapporteur), Marie-Françoise André (rapporteur), Jean-Pierre Peulvast (examinateur) et Jean-Paul Métailié (examinateur).
     - title: DEA de géomorphologie
       institution: Université Paris IV
       year: 2004
