@@ -1,6 +1,6 @@
-- title: Informations générales
-  type: map
-  contents:
+# - title: Informations générales
+#   type: map
+#   contents:
     # - name: Nom
     #   value: Thierry Feuillet
     # - name: Date of Birth
@@ -9,37 +9,37 @@
     #   value: Français, anglais
 
 
-- title: Parcours | *Experience*
+- title: Parcours | Experience
   type: time_table
   contents:
-    - title: Professeur des universités | *Full professor*
+    - title: Professeur des universités | Full professor
       institution: Université de Caen Normandie
       year: 2022 -
       description:
         - Attache à l'UMR CNRS 6266 IDEES.
         - Enseignements en géomatique et analyse spatiale.
 
-    - title: Chercheur CNRS en délégation
+    - title: Chercheur CNRS en délégation | Researcher
       institution: UMR 5600 EVS - Lyon
       year: 2020-2022
 
-    - title: Maître de conférences
+    - title: Maître de conférences | Associate professor
       institution: Université Paris 8 Vincennes-Saint-Denis
       year: 2015-2022
       description:
         - Attache à l'UMR CNRS 7533 LADYSS.
         - Enseignements en géomatique, statistiques et géographie physique.
 
-- title: Diplômes
+- title: Diplômes | Diploma
   type: time_table
   contents:
-    - title: Habilitation à diriger des recherches
+    - title: Habilitation à diriger des recherches | accreditation to supervise research
       institution: Université Lyon 3 Jean Moulin
       year: 2021
       description:
         - Les effets de contexte en géographie - des fondements théoriques à la modélisation statistique.
         - Jury - Etienne Cossart (garant), Lena Sanders (rapporteure), Jean-Michel Oppert (rapporteur), Hugo Pilkington (rapporteur), Arnaud Banos (examinateur) et Virginie Chasles (présidente).
-    - title: Doctorat
+    - title: Doctorat | PhD
       institution: Université de Nantes
       year: 2010
       description:
