@@ -35,6 +35,8 @@ nav_order: 1
 ##### 2021 ####
 - Pilkington H., **Feuillet T.**, Rican S., Goupil de Bouillé J., Cailhol J., Bihan H., Lombrail P., Julia C., 2021. [Spatial determinants of excess all-cause mortality during the first wave of the COVID-19 epidemic in France](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-12203-8). ***BMC public health***, 21, 2157.
 
+- **Feuillet T.**, Bulteau J., Dantan S. 2021. [Modelling the context-specific relationships between neighbourhood socioeconomic disadvantage and private car use through a random slope hierarchical generalised additive modelling framework](https://www.sciencedirect.com/science/article/pii/S0966692321001137?dgcid=author). ***Journal of transport geography***, 93, 103060.
+
 - Bulteau J., **Feuillet T.**, Dantan S., 2021. [Encouraging carpooling for commuting in the Paris area (France): Which incentives and for whom?](https://link.springer.com/article/10.1007/s11116-021-10237-w?utm_source=xmol&utm_medium=affiliate&utm_content=meta&utm_campaign=DDCN_1_GL01_metadata). ***Transportation***
 
 - Darly S., **Feuillet T.**, Laforêt C. 2021. [Home gardening and the social divide of suburban space: methodological proposal for the spatial analysis of a social practice in the Greater Paris area](https://www.mdpi.com/2071-1050/13/6/3243). ***Sustainability***, 13(6), 3243
@@ -42,7 +44,7 @@ nav_order: 1
 - Desgeorges M., Nazare J.-A., Enaux C., J.-M. Oppert, Menai M., Charreire H., Salze P., Weber C., Hercberg S., Roda C., **Feuillet T.**, Hess F., Simon C., Perchoux C., 2021. [Perceptions of the environment moderate the effects of objectively-measured built environment attributes on active transport. An ACTI-Cités study](https://www.sciencedirect.com/science/article/pii/S2214140520301766?dgcid=coauthor). ***Journal of transport and health***, 20, 100972
 
 ##### 2020 ####
-- **Feuillet T.**, Valette J.-V., Charreire H., Kesse-Guyot E., Julia C., Vernez-Moudon A., Herberg S., Touvier M., Oppert J.-M. 2020. [Influence of the urban context on the relationship between neighbourhood deprivation and obesity](https://doi.org/10.1016/j.socscimed.2020.113537). ***Social science \& medicine***, 265, 11353.
+- **Feuillet T.**, Valette J.-V., Charreire H., Kesse-Guyot E., Julia C., Vernez-Moudon A., Herberg S., Touvier M., Oppert J.-M. 2020. [Influence of the urban context on the relationship between neighbourhood deprivation and obesity](https://doi.org/10.1016/j.socscimed.2020.113537). ***Social science & medicine***, 265, 11353.
 
 - **Feuillet T.**, Birre D., Milian J., Godard V., Clauzel C., Serrano R., 2020. [Spatial dynamics of alpine treelines under global warming: what explains the mismatch between tree densification and altitudinal upward shifts at the treeline ecotone?](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13779?af=R) ***Journal of biogeography***, 47(5), 1056--1068.
 
