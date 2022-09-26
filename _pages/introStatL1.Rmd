@@ -1,0 +1,381 @@
+---
+title: "Introduction aux statistiques - L1"
+author: "Thierry Feuillet (Université Paris 8)"
+date: "04/02/2022"
+output: ioslides_presentation
+df_print: kable
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduction
+
+- 13 séances de 1h30
+- Combinaison CM et TD
+- Contact : thierry.feuillet@univ-paris8.fr
+- Site du cours : <https://gitlab.huma-num.fr/tfeuillet/supportscours/>
+
+## Introduction
+
+**Objectif du cours**
+
+- Découvrir le vocabulaire de la statistique
+- Lire et analyser des données
+- Articuler les statistiques et la cartographie
+
+## Introduction
+
+**Qu'est-ce que la statistique ?**
+
+
+## Introduction
+
+**Qu'est-ce que la statistique ?**
+
+```{r, message=FALSE}
+library(sf)
+dep <- read_sf("~/supportscours/L2_Stats/data/DEPARTEMENT.shp")
+data <- read.csv2("~/supportscours/L2_Stats/data/elect2017.csv", sep = ",")
+dep <- dep[1:96,]
+dataFin <- cbind(dep, data)
+```
+
+Pourcentage moyen de votes M. Le Pen en 2017 =
+```{r, eval=TRUE, options = list(width = 10000)}
+paste0(mean(dataFin$txExpLePen) |> round(1), "%")
+```
+
+Cette valeur relève-t-elle de la statistique ?
+
+## Introduction
+
+Cette quantité cache en réalité une variabilité/dispersion...
+
+```{r, message=FALSE}
+dataFin$txExpLePen
+```
+
+## Introduction
+
+Que l'on peut représenter et synthétiser visuellement...
+
+```{r, message=FALSE}
+library(ggplot2)
+ggplot(dataFin, aes(txExpLePen)) + geom_histogram(col="grey80") + geom_vline(xintercept = mean(dataFin$txExpLePen), col = "red")
+```
+
+## Introduction
+
+Les cartes illustrent cette dispersion dans l'espace
+
+```{r, message=FALSE}
+library(mapsf)
+mf_choro(x = dataFin, var = "txExpLePen", nbreaks = 6)
+# target <- dataFin[c(76,93,94,95),]
+# mf_inset_on(x = target, pos = "topright",cex = .3)
+# mf_init(target)
+# mf_choro(target, add = T, var = "txExpLePen")
+# mf_inset_off()
+# mf_layout()
+mf_title("Votes Le Pen second tour 2017")
+```
+
+## Introduction
+
+Cette dispersion/variabilité constitue l'objet d'étude de la statistique
+
+S'il n'y a pas de variation, il n'y a pas de statistique
+
+Les statistiques sont utilisées pour décrire/représenter correctement cette variabilité
+
+## Introduction
+
+Par exemple, les cartes modifient les données, en les classant en groupes : c'est la **discrétisation**
+
+```{r, message=FALSE}
+mf_choro(x = dataFin, var = "txExpLePen", nbreaks = 3)
+mf_title("Votes Le Pen second tour 2017")
+```
+
+## Introduction
+
+**Objectifs du cours**
+
+- S'approprier le langage des statistiques
+- Caractériser et représenter l'information géograĥique quantitative (**statistiques descriptives univariées**)
+- Cartographier correctement l'information géographique
+
+## Introduction
+
+**Statistiques univariées**
+
+- Distinguer les types de variables et leur distribution, une à une
+- Décrire les variables avec des méthodes et des statistiques appropriées
+- Cartographier correctement les bonnes variables
+
+## 1. Statistiques descriptives univariées
+
+1.1. Vocabulaire de base
+
+1.2. Organiser les données
+
+1.3. Représenter les données
+
+1.4. Caractériser les données
+
+1.5. Discrétiser les variables
+
+## 1. Statistiques descriptives univariées
+
+1.1. Vocabulaire de base
+
+![](~/supportscours/L2_Stats/data/ivep.png)
+
+## I = individus
+
+* Ou unités statistiques
+
+* Exemples : individus réels, mais plus souvent en géo des entités administratives
+
+
+## V = variables
+
+- **Variable** = série de valeurs ou de caractères décrivant les individus 
+
+- **Exemples** : taille, couleur des cheveux, notes aux partiels, budget des clubs de foot...
+
+## Deux grands types de variables
+
+- **Variables quantitatives**
+  + Les caractéristiques des individus sont des valeurs
+
+- **Variables qualitatives**
+  + Les caractéristiques des individus sont des modalités
+  
+## Les variables qualitatives
+
+- **Variables qualitatives ordinales**
+  + Ordonnées selon une échelle de valeurs (niveau d'étude, score d'appréciation, etc.)
+
+- **Variables qualitatives nominales**
+  + les classes ne peuvent pas être hiérarchisées (sexe, nationalité, type de roches, etc.)
+  
+## Les variables qualitatives
+
+- **Variables binaires**
+  + Variables dichotomiques (absence/présence)
+  + Variables booléennes (vrai/faux)
+  + Variables de Bernouilli (0/1)
+
+## Les variables quantitatives
+
+- **Variables quantitatives discrètes**
+  + Moins de valeurs que d'individus (nombre d'enfants, notes à un devoir, etc.)
+  
+- **Variables quantitatives continues**
+  + Peuvent prendre un nombre infini de valeurs au sein d'un intervalle (tous les taux, altitude, taille, etc.)
+
+## Bilan variables
+
+<center>
+![Tableau d'information géographique](~/supportscours/L2_Stats/data/tabVar.png){width=75%}
+</center>
+
+
+## Pourquoi distinguer ainsi les variables ?
+
+- **Traitements statistiques spécifiques** (ex. $\chi^2$, corrélation linéaire, etc.)
+  
+- **Représentation cartographique spécifique** (cercles proportionnels ou cartes choroplèthes)
+
+## Carte choroplèthe
+
+```{r, message=FALSE}
+library(mapsf)
+mf_choro(x = dataFin, var = "txExpLePen", nbreaks = 6)
+mf_title("Votes (%) Le Pen second tour 2017")
+```
+  
+<!-- ## Carte à cercles proportionnels -->
+
+<!-- ```{r, message=FALSE} -->
+<!-- mf_prop(x = dataFin, var = "VoixLePen") -->
+<!-- mf_title("Votes (%) Le Pen second tour 2017") -->
+<!-- ``` -->
+
+## E = Echantillon
+
+**Echantillon** = Groupe d’individus sélectionnés dans une population (ou un ensemble)
+
+**Par exemple** : votre classe (par rapport à tous les étudiants de France), les communes de Seine-Saint-Denis, etc.
+
+## P = Population
+
+**Population** = l’ensemble des données étudiées
+
+**Par exemple** : les pays du monde, les départements français, tous les étudiants, toutes les communes, etc.
+
+## Points très importants
+
+- Les résultats statistiques issus d’un échantillon ne valent pas forcément pour la population (**inférence**)
+
+- Dépend en grande partie de la **taille** et de la **représentativité** de l’échantillon
+
+## 1. Statistiques descriptives
+
+1.2. Organiser les données
+
+## a) Tri des données
+
+- Organiser de façon cohérente la masse des données
+
+- **Tri** = rangement des unités statistiques par ordre croissant ou décroissant des valeurs de la variable
+
+## a) Tri des données
+
+- Organiser de façon cohérente la masse des données
+
+- **Tri** = rangement des unités statistiques par ordre croissant ou décroissant des valeurs de la variable
+
+```{r, message=FALSE}
+library(knitr)
+library(kableExtra)
+library(dplyr)
+
+dataFin %>% st_drop_geometry %>% select(c("CODE","txExpLePen")) %>% head() %>% arrange(desc(txExpLePen)) %>% kable()
+# %>% sort("txExpLePen", decreasing = T) %>% kable()
+# sort(dataFin$txExpLePen, decreasing = T) |> as.data.frame() |> `colnames<-`("txLePen") |> head(7) |> kable() |> kable_styling(full_width = F)
+```
+
+## b) Regroupement en classes
+
+- Utile pour les variables quantitatives comportant beaucoup d’individus
+
+- Regroupement en classes = **discrétisation** (indispensable en cartographie des variables continues)
+
+- On peut ainsi transformer une variable quantitative discrète en une variable qualitative ordinale (ex. population des villes)
+
+## c) Effectifs et fréquences
+
+- **Effectif** = nombre d’individus dans chaque classe
+
+- **Fréquence** = rapport entre l’effectif (n) sur le total de la série (N), exprimée en %
+
+## d) Distribution
+
+- Répartition des effectifs par classe
+
+- Très utilisée en stat car associée à une série de propriétés mathématiques
+
+## 1. Statistiques descriptives
+
+1.3. Représenter les données
+
+## a) Les types de tableaux
+
+**Tableau élémentaire**
+
+- Il décrit un ensemble d’individus ou éléments (lignes) à l’aide d’un ensemble de variables (colonnes)
+
+- La première colonne est souvent réservée à l’identifiant
+
+- On note $i$ un individu quelconque du tableau et $X_{i}$ la modalité prise par l’individu pour le caractère $X$
+
+- En géographie, on parlera de tableau d’information géographique
+
+## a) Les types de tableaux
+
+<center>
+![Tableau d'information géographique](~/supportscours/L2_Stats/data/tabVar.png){width=70%}
+</center>
+
+## Tableau de dénombrement
+
+Le tableau de dénombrement a autant de lignes que de classes de valeurs d'une variable quantitative discrétisée
+
+## Tableau de contingence
+
+- Tableau à double entrée où les cases contiennent des effectifs dont les sommes en lignes et en colonnes sont égales
+
+- C’est la transformation d’un tableau élémentaire constitué de 2 variables qualitatives $X$ et $Y$ décrivant un même ensemble E
+
+## Tableau de contingence
+
+- Nombre de lignes = nombre de modalités ($k$) de la variable $X$ 
+
+- Nombre de colonnes ($p$) = nombre de modalités de la variable $Y$
+
+- L’effectif d’une case, notée $N_{ij}$ = nombre d’individus du tableau élémentaire E qui prennent simultanément la modalité $i$ de $X$ et la modalité $j$ de $Y$
+
+## Tableau de contingence (exemple)
+
+```{r, message=FALSE}
+tmp <- iris
+tmp <- tmp %>% 
+  mutate(petales = case_when(Petal.Length < mean(Petal.Length) ~ "Petit.Pet", 
+                             TRUE ~ "Grand.Pet"),
+         sepales = case_when(Sepal.Length < mean(Sepal.Length) ~ "Petit.Sep", 
+                             TRUE ~ "Grand.Sep"))
+table(tmp$petales, tmp$sepales) %>% addmargins() %>% kable() 
+```
+
+## b) Les graphiques
+
+- **Graphique** = vision synthétique du phénomène étudié
+
+- Mais clarté et simplicité = perte d’information –> trouver le bon compromis
+
+## b) Les graphiques
+
+- Un graphique doit être :
+   - simple
+   - compréhensible par lui-même
+   - légendé (titres, axes, unités)
+   - honnête
+
+## b1. Représenter les variables quantitatives
+
+**L'histogramme** : distribution, dispersion
+
+```{r, message=FALSE}
+ggplot(dataFin, aes(txExpLePen)) + geom_histogram(col="grey80") + xlab("Taux votes Le Pen (%)")
+```
+
+## b1. Représenter les variables quantitatives
+
+**La courbe de fréquence ou de densité**
+
+```{r, message=FALSE}
+ggplot(dataFin, aes(txExpLePen)) + geom_density()
+```
+
+## b1. Représenter les variables quantitatives
+
+**La boite à moustaches (boxplot)**
+
+```{r, message=FALSE}
+ggplot(dataFin, aes(x = factor(1), y = txExpLePen)) + geom_boxplot(width = .2) + geom_jitter(width = 0.1, size = 1) + labs(x = NULL)
+```
+
+## b2. Représenter les variables qualitatives
+
+**Le diagramme en barres (ou bâtons)**
+
+```{r, message=FALSE}
+# data(iris)
+# ggplot(iris, aes(Species)) + geom_bar()
+ggplot(tmp, aes(petales)) + geom_bar()
+```
+
+## b2. Représenter les variables qualitatives
+
+**Le camembert** : variables qualitatives nominales
+
+```{r, message=FALSE}
+ggplot(iris, aes(x=factor(1), fill=Species)) +
+  geom_bar(width = 1) +
+  coord_polar("y") + labs(x = NULL, y = NULL)
+```
+

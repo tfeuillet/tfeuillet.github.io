@@ -64,3 +64,18 @@ nav_order: 1
 - Perchoux C., Enaux C., Oppert J.-M., Menai M., Charreire H., Salze P., Hercberg S., **Feuillet T.**, Hess F., Roda C., Simon C., Nazare J.-A., 2017. [Individual, social, and environmental correlates of active transportation patterns in French women](https://www.hindawi.com/journals/bmri/2017/9069730/). ***BioMed Research International***, Art. 9069730.
 
 - Perchoux C., Nazare J.A., Benmarhnia T., Salze P., **Feuillet T.**, Herberg S., Hess F., Menai M., Weber C., Charreire H., Enaux C., Oppert J.M., Simon C., 2017. [Neighborhood educational disparities in active commuting among women : the effect of distance between the place of residence and the place of work/study (an ACTI-Cités study)](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-017-4464-8). ***BMC Public Health***, 17, 569.
+
+- Mertens L., Compernolle S., Deforche B., Mackenbach J.D., Lakerveld J., Brug J., Roda C., **Feuillet T.**, Oppert J.-M., Glonti K., Rutter H., Bardos H., De Bourdeaudhuij I., Van Dyck D., 2017. [Built environmental correlates of cycling for transport across Europe](http://www.sciencedirect.com/science/article/pii/S1353829217300679). ***Health & Place***, 44, 35–42.
+
+- Hess F., Salze P., Weber C., **Feuillet T.**, Charreire H., Menai M., Perchoux C., Nazare J.A., Simon C., Oppert J.M., 2017. [Active mobility and environment: A pilot qualitative study for the design of a new questionnaire](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168986). ***PLoS ONE***, 12(1):e0168986.
+
+##### 2016 #####
+- Decaulne A., Cossart E., Mercier D., **Feuillet T.**, Coquin J., Jónsson H.P., 2016. [An early Holocene age for the Vatn landslide (Skagafjörður, central northern Iceland): Insights into the role of postglacial landsliding on slope development](http://hol.sagepub.com/content/26/8/1304). ***The holocene***, 26(8), 1304-1318.
+
+- Coquin J., Mercier D., Bourgeois O., **Feuillet T.**, Decaulne A., 2016. [Is gravitational spreading a precursor for the Stífluhólar landslide (Skagafjörður, Northern Iceland)?](https://geomorphologie.revues.org/11295), ***Géomorphologie : relief, processus, environnement***, 22(1), 9-24.
+
+- **Feuillet T.**, Charreire H., Roda C., Ben Rebah M., Mackenbach J.D., Compernolle S., Glonti K., Bárdos H., Rutter H., De Bourdeaudhuij I., McKee M., Brug J., Lakerveld J.,Oppert J.-M., 2016. [Neighbourhood typology based on virtual audit of environmental obesogenic characteristics](http://onlinelibrary.wiley.com/doi/10.1111/obr.12378/abstract), ***Obesity reviews***, 17(S1), 19-30.
+
+- Charreire H., **Feuillet T.**, Roda C., Mackenbach J.D., Compernolle S., Glonti K., Bárdos H., Le Vaillant M., Rutter H., McKee M., De Bourdeaudhuij I., Brug J., Lakerveld J.,Oppert J.-M., 2016. [Self-defined residential neighbourhoods : size variations and correlates across five European urban regions](http://onlinelibrary.wiley.com/doi/10.1111/obr.12380/abstract), ***Obesity reviews***, 17(S1), 9-18.
+
+- **Feuillet T.**, Salze P., Charreire H., Menai M., Enaux C., Perchoux C., Hess F., Kesse-Guyot E., Hercberg S., Simon C., Weber C., Oppert J.-M., 2016. [Built environment in local relation with walking : Why here and not there?](http://www.sciencedirect.com/science/article/pii/S2214140515007045). ***Journal of transport & health***, 3(4), 300-312.

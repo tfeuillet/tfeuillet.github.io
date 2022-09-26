@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: Enseignements
-description: 
+description:
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- Systèmes d'information géographique (L3)
+- Systèmes d'information géographique et analyse spatiale ([licence professionnelle SIG-DAT](http://seggat.unicaen.fr/inscription-et-formations-2016/licence-professionnelle-sig-dat/))
+- Production, traitement et analyse de données environnementales ([M1](https://uniformsup.unicaen.fr/catalogue/formation/master/7032-master-geo.--amenagement--envt.-et-developpement-p.-environnement--risques-et-diagnostics-territoriaux?s=seggat&r=1484239161578))
