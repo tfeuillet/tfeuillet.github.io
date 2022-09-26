@@ -79,3 +79,41 @@ nav_order: 1
 - Charreire H., **Feuillet T.**, Roda C., Mackenbach J.D., Compernolle S., Glonti K., Bárdos H., Le Vaillant M., Rutter H., McKee M., De Bourdeaudhuij I., Brug J., Lakerveld J.,Oppert J.-M., 2016. [Self-defined residential neighbourhoods : size variations and correlates across five European urban regions](http://onlinelibrary.wiley.com/doi/10.1111/obr.12380/abstract), ***Obesity reviews***, 17(S1), 9-18.
 
 - **Feuillet T.**, Salze P., Charreire H., Menai M., Enaux C., Perchoux C., Hess F., Kesse-Guyot E., Hercberg S., Simon C., Weber C., Oppert J.-M., 2016. [Built environment in local relation with walking : Why here and not there?](http://www.sciencedirect.com/science/article/pii/S2214140515007045). ***Journal of transport & health***, 3(4), 300-312.
+
+- Roda C., Charreire H., **Feuillet T.**, M., Mackenbach J.D., Compernolle S., Glonti K., Bárdos H., Rutter H., McKee M., Brug J., De Bourdeaudhuij I., Lakerveld J.,Oppert J.-M., 2016. [Lifestyle correlates of overweight in adults : a hierarchical approach (the SPOTLIGHT project)](http://ijbnpa.biomedcentral.com/articles/10.1186/s12966-016-0439-x). ***International journal of behavioral nutrition and physical activity***, 13, 114.
+
+- Roda C., Charreire H., **Feuillet T**., Mackenbach J.D., Compernolle S., Glonti K., Ben Rebah M., Bárdos H., Rutter H., McKee M., De Bourdeaudhuij I., Brug J., Lakerveld J., Oppert J.M. 2016. [Mismatch between perceived and objectively measured environmental obesogenic features in European neighbourhoods](http://onlinelibrary.wiley.com/doi/10.1111/obr.12376/abstract). ***Obesity reviews***, 17(S1), 31-41.
+
+- Mertens L., Compernolle S., Gheysen F., Deforche B., Brug J., Mackenbach J.D.,  Lakerveld J., Oppert J.‐M., **Feuillet T.**, Glonti K., Bárdos H., De Bourdeaudhuij I., 2016.[Perceived environmental correlates of cycling for transport among adults in five regions of Europe] (http://onlinelibrary.wiley.com/doi/10.1111/obr.12379/abstract). ***Obesity reviews***, 17(S1), 53-61.
+
+
+- Mackenbach J.D., Lakerveld J., van Lenthe F.J., Kawachi I., McKee M., Rutter H., Glonti K., Compernolle S., De Bourdeaudhuij I., **Feuillet T.**, Oppert J.M., Nijpels G., Brug J., 2016. [Neighbourhood social capital : measurement issues and associations with health outcomes](http://onlinelibrary.wiley.com/doi/10.1111/obr.12373/abstract). ***Obesity reviews***, 17(S1), 93-107.
+
+##### 2015 #####
+- **Feuillet T.**, Charreire H., Salze P., Menai M., Simon C., Dugas J., Hercberg S., Andreeva V.A., Enaux C., Weber C., Oppert J.-M., 2015. [Spatial heterogeneity of the relationships between environmental characteristics and active commuting: towards a locally varying social ecological model](http://www.ij-healthgeographics.com/content/14/1/12/abstract), ***International journal of health geographics***, 14, 12.
+
+- Menai M., Charreire H., **Feuillet T.**, Salze P., Weber C., Enaux C., Andreeva V.A., Hercberg S., Nazare J.-A., Perchoux C., Simon C., Oppert J.-M., 2015. [Walking and cycling for commuting, leisure and errands : relations with individual characteristics and leisure-time physical activity in a cross-sectional survey (the ACTI-Cités project)](http://www.ijbnpa.org/content/12/1/150). ***International journal of behavioral nutrition and physical activity***, 12, 150.
+
+- Bertran P., Beauval C., Boulogne S., Brenet M., Costamagno S., **Feuillet T.**, Laroulandie V., Lenoble A., Malaurent P., Mallye J.B., 2015. [Experimental archaeology in a mid-latitude periglacial context: insight into site formation and taphonomic processes](http://www.sciencedirect.com/science/article/pii/S0305440315000898). ***Journal of archaelogical science***, 57, 283-301
+
+##### 2014 #####
+- **Feuillet T.**, Coquin J., Mercier D., Cossart E., Decaulne A., Jónsson H.P., Sæmundsson Þ., 2014. [Focusing on the spatial nonstationarity of landslide predisposing factors in Northern Iceland. Do paraglacial factors vary over space?](http://ppg.sagepub.com/content/early/2014/04/14/0309133314528944.abstract) ***Progress in physical geography***, 38, 354-377.
+
+- Cossart E., Mercier D., Decaulne A., **Feuillet T.**, Sæmundsson Þ., Jónsson H.P., 2014. [Impacts of post-glacial rebound on landslide spatial distribution at a regional scale in Northern Iceland (Skagafjörður)](http://onlinelibrary.wiley.com/doi/10.1002/esp.3450/abstract). ***Earth surface processes and landforms***, 39(3), 336-350.
+
+##### 2013 #####
+- Mercier D., Decaulne A., Cossart E., **Feuillet T.**, Sæmundsson Þ., Jónsson H.P., 2013. [The Höfðahólar rock avalanche (sturzström): chronological constraint of paraglacial landsliding on an Icelandic hillslope](http://hol.sagepub.com/content/early/2012/12/20/0959683612463104.full.pdf+html). ***The Holocene***, 23(3), 431-445.
+
+- Cossart E., Mercier D., Decaulne A., **Feuillet T.**, 2013. [An overview of the consequences of paraglacial landsliding on deglaciated mountain slopes : typology, timing and contribution to cascading fluxes](http://quaternaire.revues.org/6444). ***Quaternaire***, 24(1), 13-24.
+
+##### 2012 #####
+- **Feuillet T.**, Mercier D., 2012. [Post-Little Ice Age patterned ground development on two Pyrenean proglacial areas: from deglaciation to periglaciation](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0459.2012.00459.x/abstract). ***Geografiska Annaler***, Series A, 94(3), 363-376.
+
+- **Feuillet T.**, Mercier D., Decaulne A., Cossart E., 2012. [Classification of sorted patterned ground areas based on their environmental characteristics (Skagafjörður, Northern Iceland)](http://www.sciencedirect.com/science/article/pii/S0169555X11006362). ***Geomorphology***, 139-140, 577-587.
+
+##### 2011 #####
+- **Feuillet T.**, 2011. [Statistical analyses of active patterned ground occurrence in the Taillon Massif (Pyrénées, France/Spain)](http://onlinelibrary.wiley.com/doi/10.1002/ppp.726/abstract). ***Permafrost and periglacial processes***, 22(3), 228-238.
+
+- Monnier S., Camerlynck C., Rejiba F., Kinnard C., **Feuillet T.**, Dhemaied A., 2011. [The structure and genesis of the Thabor rock glacier (Northern French Alps) determined from morphology analysis and Ground Penetrating Radar survey](http://www.sciencedirect.com/science/article/pii/S0169555X11003497). ***Geomorphology***, 114, 269-279.
+
+- **Feuillet T.**, Sourp E., 2011. [Geomorphological heritage of the Pyrénées National Park (France): assessment, clustering and promotion of geomorphosites](http://www.springerlink.com/content/x735kl1t35536334/), ***Geoheritage***, 3(3), 151-162.
