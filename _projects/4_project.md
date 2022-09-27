@@ -2,7 +2,7 @@
 layout: page
 title: comopocov
 description: Changements de comportements de mobilité post-COVID-19 dans une perspective de transition écologique, économique et sociale
-img:
+img: assets/img/co.png
 importance: 4
 category: Current projects
 ---

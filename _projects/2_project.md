@@ -2,7 +2,7 @@
 layout: page
 title: UrbASanté
 description: L'enquête pour mieux connaître votre quartier et votre santé
-img: assets/img/us.svg
+img: assets/img/us2.png
 importance: 2
 category: Current projects
 ---
