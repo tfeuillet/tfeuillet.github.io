@@ -6,7 +6,8 @@ img: assets/img/us.svg
 importance: 2
 category: work
 ---
-- ANR | 2022-2026
-- Coordination : H. Charreire (INRAE)
+- **ANR | 2022-2026**
+
+- **Coordination : H. Charreire (INRAE)**
 
 **Site officiel du projet : [ANR UrbASanté](https://urbasante.fr/)**

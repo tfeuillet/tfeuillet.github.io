@@ -8,6 +8,7 @@ category: work
 ---
 
 - **MSH Paris-Saclay | 2021-2022**
+
 - **Coordination : [J. Bulteau](https://www.cearc.fr/content/julie-bulteau) (UVSQ), T. Feuillet (Unicaen)**
 &nbsp;
 
