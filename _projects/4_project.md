@@ -4,7 +4,7 @@ title: comopocov
 description: Changements de comportements de mobilité post-COVID-19 dans une perspective de transition écologique, économique et sociale
 img:
 importance: 4
-category: work
+category: Current projects
 ---
 
 - MSH Paris-Saclay | 2021-2022

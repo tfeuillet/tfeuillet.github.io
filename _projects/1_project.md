@@ -4,7 +4,7 @@ title: SpatialTreeP
 description: Dynamique de la forêt subalpine dans les Pyrénées
 img: assets/img/st.png
 importance: 1
-category: Current project
+category: Current projects
 ---
 
 - ANR | 2022-2025

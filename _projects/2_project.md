@@ -4,7 +4,7 @@ title: UrbASanté
 description: L'enquête pour mieux connaître votre quartier et votre santé
 img: assets/img/us.svg
 importance: 2
-category: work
+category: Current projects
 ---
 
 - ANR | 2022-2026
