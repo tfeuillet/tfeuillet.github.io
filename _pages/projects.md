@@ -5,7 +5,7 @@ permalink: /projects/
 description: Liste des projets financés.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work, fun, Current project]
 horizontal: false
 ---
 
