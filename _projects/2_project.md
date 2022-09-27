@@ -6,7 +6,8 @@ img: assets/img/us.svg
 importance: 2
 category: work
 ---
-- **ANR | 2022-2026**
+
+- ANR | 2022-2026
 
 - **Coordination : H. Charreire (INRAE)**
 
