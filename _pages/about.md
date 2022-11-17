@@ -22,11 +22,11 @@ Je m’intéresse à la caractérisation des structures spatiales et à leur rô
 
 Mobilisant des méthodes principalement issues de la **géomatique**, de l'**analyse spatiale** et de la **modélisation statistique**, j'applique ces questionnements à différents enjeux thématiques et disciplinaires liant environnement et société, en biogéographie, en géographie de la santé ou en géographie des transports.
 
-*English version
+*English version*
 
-My research focuses on spatial patterns characterization and on spatial analysis of geographic phenomena. I question the influence of contextual effects on the production of spatial heterogeneity at different scales and environments.
+*My research focuses on spatial patterns characterization and on spatial analysis of geographic phenomena. I question the influence of contextual effects on the production of spatial heterogeneity at different scales and environments.*
 
-This research is based on methods from geomatics, spatial analysis and statistical modelling, and is applied to various disciplinary fields involving environment-society links, such as biogeography, health geography or transport geography.*
+*This research is based on methods from geomatics, spatial analysis and statistical modelling, and is applied to various disciplinary fields involving environment-society links, such as biogeography, health geography or transport geography.*
 
 <!--
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
