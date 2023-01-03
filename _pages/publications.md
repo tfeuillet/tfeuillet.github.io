@@ -26,6 +26,9 @@ nav_order: 1
 
 ### Articles | *Papers* ###
 
+##### 2023 ####
+- Birre D., **Feuillet T.**, Lagalis R., Milian J., Alexandre F., Sheeren D., Serrano Notivoli R., Vignal M., Bader M., 2023. [A new method for quantifying treeline-ecotone change based on multiple spatial pattern dimensions](https://www.researchsquare.com/article/rs-2134875/v1) ***Landscape ecology***, in press.
+
 ##### 2022 ####
 - Guillien A., Bédard A., Dumas O., Allegre J., Arnault N., Bochaton A., Druesne-Pecollo N., Dumay D., Fezeu L., Hercberg S., Le Moual N., Pilkington H., Rican S., Sit G., Szabo de Edelenyi F., Touvier M., Galan P., **Feuillet T.**, Varraso R., Siroux V., 2022. [Exposome profiles and asthma among French adults](https://www.atsjournals.org/doi/abs/10.1164/rccm.202205-0865OC). ***American journal of respiratory and critical care medicine***.
 
@@ -47,7 +50,7 @@ nav_order: 1
 ##### 2020 ####
 - **Feuillet T.**, Valette J.-V., Charreire H., Kesse-Guyot E., Julia C., Vernez-Moudon A., Herberg S., Touvier M., Oppert J.-M. 2020. [Influence of the urban context on the relationship between neighbourhood deprivation and obesity](https://doi.org/10.1016/j.socscimed.2020.113537). ***Social science & medicine***, 265, 11353.
 
-- **Feuillet T.**, Birre D., Milian J., Godard V., Clauzel C., Serrano R., 2020. [Spatial dynamics of alpine treelines under global warming: what explains the mismatch between tree densification and altitudinal upward shifts at the treeline ecotone?](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13779?af=R) ***Journal of biogeography***, 47(5), 1056--1068.
+- **Feuillet T.**, Birre D., Milian J., Godard V., Clauzel C., Serrano Notivoli R., 2020. [Spatial dynamics of alpine treelines under global warming: what explains the mismatch between tree densification and altitudinal upward shifts at the treeline ecotone?](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13779?af=R) ***Journal of biogeography***, 47(5), 1056--1068.
 
 ##### 2019 #####
 - Bulteau J., **Feuillet T.**, Dantan S., 2019. [Carpooling and carsharing for commuting in the Paris region : A comprehensive exploration of the individual and contextual correlates of their uses](https://www.sciencedirect.com/science/article/pii/S2214367X18302382). ***Travel behavior and society***, 16, 77-87.
