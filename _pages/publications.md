@@ -27,7 +27,7 @@ nav_order: 1
 ### Articles | *Papers* ###
 
 ##### 2023 ####
-- Birre D., **Feuillet T.**, Lagalis R., Milian J., Alexandre F., Sheeren D., Serrano Notivoli R., Vignal M., Bader M., 2023. [A new method for quantifying treeline-ecotone change based on multiple spatial pattern dimensions](https://www.researchsquare.com/article/rs-2134875/v1) ***Landscape ecology***, in press.
+- Birre D., **Feuillet T.**, Lagalis R., Milian J., Alexandre F., Sheeren D., Serrano Notivoli R., Vignal M., Bader M., 2023. [A new method for quantifying treeline-ecotone change based on multiple spatial pattern dimensions](https://link.springer.com/article/10.1007/s10980-022-01589-4) ***Landscape ecology***, in press.
 
 ##### 2022 ####
 - Guillien A., Bédard A., Dumas O., Allegre J., Arnault N., Bochaton A., Druesne-Pecollo N., Dumay D., Fezeu L., Hercberg S., Le Moual N., Pilkington H., Rican S., Sit G., Szabo de Edelenyi F., Touvier M., Galan P., **Feuillet T.**, Varraso R., Siroux V., 2022. [Exposome profiles and asthma among French adults](https://www.atsjournals.org/doi/abs/10.1164/rccm.202205-0865OC). ***American journal of respiratory and critical care medicine***.
