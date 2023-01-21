@@ -70,6 +70,12 @@
       description:
         - Transitions alimentaires pour la santé et l'environnement.
         - UMR LADYSS, Solagro, INSERM, GAEL, CRESS, PNCA.
+    - title: COMOPOCOV
+      institution:
+      year: 2022-2023
+      description:
+        - Changements de comportements de mobilité post-COVID-19 dans une perspective de transition écologique, économique et sociale
+        - MSH-Paris-Saclay, CEARC.
 #   - title: ANR UrbaSante
 #      institution:
 #      year: 2022-2025
