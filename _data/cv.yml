@@ -49,7 +49,6 @@
       institution: Université Paris IV
       year: 2004
 
-
 - title: Projets en cours | <i>Current projects</i>
   type: time_table
   contents:
@@ -59,30 +58,7 @@
       description:
         - gg
         - bb
-    - title: ANR UrbaSanté (PI : H. Charreire)
-      institution: Changements urbains, expositions environnementales, comportements et santé
-      year: 2022-2025
-      description:
-        - tt
-        - bb
-    - title: ANR TRANSFood (PI : E. Kesse-Guyot)
-      institution: Transitions alimentaires pour la santé et l'environnement
-      year: 2022-2025
-      description:
-        - gg
-        - hh
-    - title: MSH-Paris-Saclay COMOPOCOV (PI : J. Bulteau et T. Feuillet)
-      institution: Changements de comportements de mobilité post-COVID-19 dans une perspective de transition écologique, économique et sociale
-      year: 2022-2023
-      description:
-        - hh
-        - nn
-    - title: ANR Armaguedon (PI : A. Lalis)
-      institution: Approche interdisciplinaire en génomique, écologie urbaine et éco-épidémiologie pour une meilleure gestion des rats à Paris
-      year: 2021-2024
-      description:
-        - hh
-        - jj
+
 #
 #
 # - title: Open Source Projects
