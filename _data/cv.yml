@@ -56,7 +56,7 @@
       institution:
       year: 2022-2024
       description:
-        - <a href="https://tfeuillet.gitpages.huma-num.fr/spatialtreep/">Mobilité de la limite supérieure de la forêt subalpine dans les Pyrénées - pour une meilleure compréhension des interactions entre changement climatique, mutations anthropiques et effets de site </a>
+        - <a href="https://tfeuillet.gitpages.huma-num.fr/spatialtreep/">Mobilité de la limite supérieure de la forêt subalpine dans les Pyrénées - pour une meilleure compréhension des interactions entre changement climatique, mutations anthropiques et effets de site</a>.
         - UMR IDEES, UMR LADYSS, UMR DYNAFOR, UMR CEFE, UMR HNHP, PLEAIADE, CHCSC.
     - title: ANR UrbaSanté
       institution:
@@ -68,7 +68,7 @@
       institution:
       year: 2022-2025
       description:
-        - Transitions alimentaires pour la santé et l'environnement.
+        - <a href="https://anr.fr/Projet-ANR-21-CE21-0011>Transitions alimentaires pour la santé et l'environnement</a>.
         - UMR LADYSS, Solagro, INSERM, GAEL, CRESS, PNCA.
     - title: COMOPOCOV
       institution:
@@ -76,6 +76,12 @@
       description:
         - Changements de comportements de mobilité post-COVID-19 dans une perspective de transition écologique, économique et sociale
         - MSH-Paris-Saclay, CEARC.
+    - title: ANR ARMAGUEDON
+      institution:
+      year: 2021-2024
+      description:
+        - <a href="https://anr.fr/Projet-ANR-20-CE03-0007>Approche interdisciplinaire en génomique, écologie urbaine et éco-épidémiologie pour une meilleure gestion des rats à Paris</a>.
+        - MNHN
 #   - title: ANR UrbaSante
 #      institution:
 #      year: 2022-2025
