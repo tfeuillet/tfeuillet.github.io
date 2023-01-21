@@ -58,7 +58,16 @@
       description:
         - <a href="https://tfeuillet.gitpages.huma-num.fr/spatialtreep/">Mobilité de la limite supérieure de la forêt subalpine dans les Pyrénées - pour une meilleure compréhension des interactions entre changement climatique, mutations anthropiques et effets de site </a>
         - UMR IDEES, UMR LADYSS, UMR DYNAFOR, UMR CEFE, UMR HNHP, PLEAIADE, CHCSC.
-   - title: ANR UrbaSante
+- title: Projets en cours | <i>Current projects</i>
+  type: time_table
+  contents:
+    - title: ANR SpatialTreeP
+      institution:
+      year: 2022-2024
+      description:
+        - <a href="https://tfeuillet.gitpages.huma-num.fr/spatialtreep/">Mobilité de la limite supérieure de la forêt subalpine dans les Pyrénées - pour une meilleure compréhension des interactions entre changement climatique, mutations anthropiques et effets de site </a>
+        - UMR IDEES, UMR LADYSS, UMR DYNAFOR, UMR CEFE, UMR HNHP, PLEAIADE, CHCSC.
+#   - title: ANR UrbaSante
 #      institution:
 #      year: 2022-2025
 #      description:
