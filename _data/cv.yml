@@ -62,8 +62,14 @@
       institution:
       year: 2022-2025
       description:
-        - Changements urbains, expositions environnementales, comportements et santé
+        - Changements urbains, expositions environnementales, comportements et santé.
         - UMR LADYSS, LVMT, LabUrba, HERA, INRAE MOISA, UMRESTTE, LISA, UMR PRODIG.
+    - title: ANR TRANSFood
+      institution:
+      year: 2022-2025
+      description:
+        - Transitions alimentaires pour la santé et l'environnement.
+        - UMR LADYSS, Solagro, INSERM, GAEL, CRESS, PNCA.
 #   - title: ANR UrbaSante
 #      institution:
 #      year: 2022-2025
