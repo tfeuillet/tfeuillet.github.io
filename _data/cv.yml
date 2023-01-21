@@ -49,16 +49,16 @@
       institution: Université Paris IV
       year: 2004
 
-- title: Diplômes | <i>Education</i>
+- title: Projets en cours | <i>Current projects</i>
   type: time_table
   contents:
-    - title: Habilitation à diriger des recherches | <i>Accreditation to supervise research</i>
+    - title: ANR SpatialTreeP (PI : Th. Feuillet)
       institution: Université Lyon 3 Jean Moulin
       year: 2021
       description:
         - <i><a href="https://tel.archives-ouvertes.fr/tel-03357283/">Les effets de contexte en géographie - des fondements théoriques à la modélisation statistique</a></i>.
         - Jury - Etienne Cossart (garant), Lena Sanders (rapporteure), Jean-Michel Oppert (rapporteur), Hugo Pilkington (rapporteur), Arnaud Banos (examinateur) et Virginie Chasles (présidente).
-        
+
 #
 #
 # - title: Open Source Projects
