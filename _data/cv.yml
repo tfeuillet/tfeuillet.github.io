@@ -33,22 +33,40 @@
 - title: Diplômes | <i>Education</i>
   type: time_table
   contents:
-    - title: Habilitation à diriger des recherches | Accreditation to supervise research
+    - title: Habilitation à diriger des recherches | <i>Accreditation to supervise research</i>
       institution: Université Lyon 3 Jean Moulin
       year: 2021
-      description:
-        - <i><a href="https://tel.archives-ouvertes.fr/tel-03357283/">Les effets de contexte en géographie - des fondements théoriques à la modélisation statistique</a></i>.
-        - Jury - Etienne Cossart (garant), Lena Sanders (rapporteure), Jean-Michel Oppert (rapporteur), Hugo Pilkington (rapporteur), Arnaud Banos (examinateur) et Virginie Chasles (présidente).
+#      description:
+#        - <i><a href="https://tel.archives-ouvertes.fr/tel-03357283/">Les effets de contexte en géographie - des fondements théoriques à la modélisation statistique</a></i>.
+#        - Jury - Etienne Cossart (garant), Lena Sanders (rapporteure), Jean-Michel Oppert (rapporteur), Hugo Pilkington (rapporteur), Arnaud Banos (examinateur) et Virginie Chasles (présidente).
     - title: Doctorat de géographie | <i>PhD in Geography</i>
       institution: Université de Nantes
       year: 2010
-      description:
-        - <i>Les formes périglaciaires dans les Pyrénées centrales - analyse spatiale, chronologique et valorisation</i>.
-        - Jury - Pascal Bertran (directeur de thèse), Denis Mercier (co-encadrant de thèse), Emmanuel Reynard (rapporteur), Marie-Françoise André (rapporteur), Jean-Pierre Peulvast (examinateur) et Jean-Paul Métailié (examinateur).
+#      description:
+#        - <i>Les formes périglaciaires dans les Pyrénées centrales - analyse spatiale, chronologique et valorisation</i>.
+#        - Jury - Pascal Bertran (directeur de thèse), Denis Mercier (co-encadrant de thèse), Emmanuel Reynard (rapporteur), Marie-Françoise André (rapporteur), Jean-Pierre Peulvast (examinateur) et Jean-Paul Métailié (examinateur).
     - title: DEA de géomorphologie | <i>Master of Geomorphology</i>
       institution: Université Paris IV
       year: 2004
 
+- title: Projets en cours | <i>Current projects</i>
+  type: time_table
+  contents:
+    - title: ANR SpatialTreeP (PI : T. Feuillet)
+      institution: Mobilité de la limite supérieure de la forêt subalpine dans les Pyrénées : pour une meilleure compréhension des interactions entre changement climatique, mutations anthropiques et effets de site
+      year: 2022-2024
+    - title: ANR UrbaSanté (PI : H. Charreire)
+      institution: Changements urbains, expositions environnementales, comportements et santé
+      year: 2022-2025
+    - title: ANR TRANSFood (PI : E. Kesse-Guyot)
+      institution: Transitions alimentaires pour la santé et l'environnement
+      year: 2022-2025
+    - title: MSH-Paris-Saclay COMOPOCOV (PI : J. Bulteau et T. Feuillet)
+      institution: Changements de comportements de mobilité post-COVID-19 dans une perspective de transition écologique, économique et sociale
+      year: 2022-2023
+    - title: ANR Armaguedon (PI : A. Lalis)
+      institution: Approche interdisciplinaire en génomique, écologie urbaine et éco-épidémiologie pour une meilleure gestion des rats à Paris
+      year: 2021-2024
 
 #
 #
