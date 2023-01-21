@@ -61,9 +61,9 @@
    - title: ANR UrbaSanté
       institution:
       year: 2022-2025
-      description:
-        - Changements urbains, expositions environnementales, comportements et santé
-        - UMR LADYSS, LVMT, LabUrba, HERA, INRAE MOISA, UMRESTTE, LISA, UMR PRODIG.
+#      description:
+#        - Changements urbains, expositions environnementales, comportements et santé
+#        - UMR LADYSS, LVMT, LabUrba, HERA, INRAE MOISA, UMRESTTE, LISA, UMR PRODIG.
 #
 # - title: Open Source Projects
 #   type: time_table
