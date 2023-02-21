@@ -27,6 +27,10 @@ nav_order: 1
 ### Articles | *Papers* ###
 
 ##### 2023 ####
+
+- Bortolamiol S., **Feuillet T.**, Kagoro W., Namirembe
+ R., Asalu E., Krief S., 2023. [Illegal harvesting within a protected area: Spatial distribution of activities, social drivers of wild meat consumption, and wildlife conservation](https://www.mdpi.com/2076-2615/13/5/771) ***Animals***, 13(5), 771.
+ 
 - Birre D., **Feuillet T.**, Lagalis R., Milian J., Alexandre F., Sheeren D., Serrano Notivoli R., Vignal M., Bader M., 2023. [A new method for quantifying treeline-ecotone change based on multiple spatial pattern dimensions](https://link.springer.com/article/10.1007/s10980-022-01589-4) ***Landscape ecology***, in press.
 
 ##### 2022 ####
