@@ -31,14 +31,14 @@ nav_order: 1
 - Bortolamiol S., **Feuillet T.**, Kagoro W., Namirembe
  R., Asalu E., Krief S., 2023. [Illegal harvesting within a protected area: Spatial distribution of activities, social drivers of wild meat consumption, and wildlife conservation](https://www.mdpi.com/2076-2615/13/5/771) ***Animals***, 13(5), 771.
 
-- Birre D., **Feuillet T.**, Lagalis R., Milian J., Alexandre F., Sheeren D., Serrano Notivoli R., Vignal M., Bader M., 2023. [A new method for quantifying treeline-ecotone change based on multiple spatial pattern dimensions](https://link.springer.com/article/10.1007/s10980-022-01589-4) ***Landscape ecology***, in press.
+- Birre D., **Feuillet T.**, Lagalis R., Milian J., Alexandre F., Sheeren D., Serrano Notivoli R., Vignal M., Bader M., 2023. [A new method for quantifying treeline-ecotone change based on multiple spatial pattern dimensions](https://link.springer.com/article/10.1007/s10980-022-01589-4) ***Landscape ecology***, 38, 779–796.
 
 ##### 2022 ####
-- Guillien A., Bédard A., Dumas O., Allegre J., Arnault N., Bochaton A., Druesne-Pecollo N., Dumay D., Fezeu L., Hercberg S., Le Moual N., Pilkington H., Rican S., Sit G., Szabo de Edelenyi F., Touvier M., Galan P., **Feuillet T.**, Varraso R., Siroux V., 2022. [Exposome profiles and asthma among French adults](https://www.atsjournals.org/doi/abs/10.1164/rccm.202205-0865OC). ***American journal of respiratory and critical care medicine***.
+- Guillien A., Bédard A., Dumas O., Allegre J., Arnault N., Bochaton A., Druesne-Pecollo N., Dumay D., Fezeu L., Hercberg S., Le Moual N., Pilkington H., Rican S., Sit G., Szabo de Edelenyi F., Touvier M., Galan P., **Feuillet T.**, Varraso R., Siroux V., 2022. [Exposome profiles and asthma among French adults](https://www.atsjournals.org/doi/abs/10.1164/rccm.202205-0865OC). ***American journal of respiratory and critical care medicine***, 206(10), 1208–1219.
 
-- Recchia D., Perignon M., Rollet P., Vonthron S., Perrin C., Tharrey M., Darmon N., **Feuillet T.**, Méjean C., 2022. [Associations between retail food environment and the nutritional quality of food purchases in French households: The Mont’Panier cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267639). ***PLoS ONE*** 17(4)&nbsp;: e0267639.
+- Recchia D., Perignon M., Rollet P., Vonthron S., Perrin C., Tharrey M., Darmon N., **Feuillet T.**, Méjean C., 2022. [Associations between retail food environment and the nutritional quality of food purchases in French households: The Mont’Panier cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267639). ***PLoS ONE***, 17(4)&nbsp;: e0267639.
 
-- Le Boennec R., Bulteau J., **Feuillet T.**, 2022. [The role of commuter rail accessibility in the formation of residential land values: Exploring spatial heterogeneity in peri-urban and remote areas](https://link.springer.com/article/10.1007/s00168-022-01113-1). ***The annals of regional science***, 69, 163-186.
+- Le Boennec R., Bulteau J., **Feuillet T.**, 2022. [The role of commuter rail accessibility in the formation of residential land values: Exploring spatial heterogeneity in peri-urban and remote areas](https://link.springer.com/article/10.1007/s00168-022-01113-1). ***The annals of regional science***, 69, 16–186.
 
 ##### 2021 ####
 - Pilkington H., **Feuillet T.**, Rican S., Goupil de Bouillé J., Cailhol J., Bihan H., Lombrail P., Julia C., 2021. [Spatial determinants of excess all-cause mortality during the first wave of the COVID-19 epidemic in France](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-12203-8). ***BMC public health***, 21, 2157.
