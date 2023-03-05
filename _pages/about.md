@@ -22,7 +22,7 @@ Je m’intéresse à la caractérisation des structures spatiales et à leur rô
 
 Mobilisant des méthodes principalement issues de la **géomatique**, de l'**analyse spatiale** et de la **modélisation statistique**, j'applique ces questionnements à différents enjeux thématiques et disciplinaires liant environnement et société, en biogéographie, en géographie de la santé ou en géographie des transports.
 
-*English version*
+***English version***
 
 *My research focuses on spatial patterns characterization and on spatial analysis of geographic phenomena. I question the influence of contextual effects on the production of spatial heterogeneity at different scales and environments.*
 
