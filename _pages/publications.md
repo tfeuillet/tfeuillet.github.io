@@ -28,10 +28,12 @@ nav_order: 1
 
 ##### 2023 ####
 
-- Bortolamiol S., **Feuillet T.**, Kagoro W., Namirembe
- R., Asalu E., Krief S., 2023. [Illegal harvesting within a protected area: Spatial distribution of activities, social drivers of wild meat consumption, and wildlife conservation](https://www.mdpi.com/2076-2615/13/5/771) ***Animals***, 13(5), 771.
+- Charreire H., Conti B., Bauchard L., Cissé N.A., Perignon M., Rollet P., Perrin C., Blanchard S., Roda C., **Feuillet T.**, Madelin M., Dupuis V., Evrard A., Hellequin A., Coll I., Larrue C., Baudet-Michel S., Vernouillet G., Ntsame-Abegue F., Fabre I., Méjean C., Oppert J.M., 2023. [A natural experiment to assess how urban interventions in lower socioeconomic areas influence health behaviors: The UrbASanté study](https://europepmc.org/article/ppr/ppr611668). ***BMC public health***, in press.
 
-- Birre D., **Feuillet T.**, Lagalis R., Milian J., Alexandre F., Sheeren D., Serrano Notivoli R., Vignal M., Bader M., 2023. [A new method for quantifying treeline-ecotone change based on multiple spatial pattern dimensions](https://link.springer.com/article/10.1007/s10980-022-01589-4) ***Landscape ecology***, 38, 779–796.
+- Bortolamiol S., **Feuillet T.**, Kagoro W., Namirembe
+ R., Asalu E., Krief S., 2023. [Illegal harvesting within a protected area: Spatial distribution of activities, social drivers of wild meat consumption, and wildlife conservation](https://www.mdpi.com/2076-2615/13/5/771). ***Animals***, 13(5), 771.
+
+- Birre D., **Feuillet T.**, Lagalis R., Milian J., Alexandre F., Sheeren D., Serrano Notivoli R., Vignal M., Bader M., 2023. [A new method for quantifying treeline-ecotone change based on multiple spatial pattern dimensions](https://link.springer.com/article/10.1007/s10980-022-01589-4). ***Landscape ecology***, 38, 779–796.
 
 ##### 2022 ####
 - Guillien A., Bédard A., Dumas O., Allegre J., Arnault N., Bochaton A., Druesne-Pecollo N., Dumay D., Fezeu L., Hercberg S., Le Moual N., Pilkington H., Rican S., Sit G., Szabo de Edelenyi F., Touvier M., Galan P., **Feuillet T.**, Varraso R., Siroux V., 2022. [Exposome profiles and asthma among French adults](https://www.atsjournals.org/doi/abs/10.1164/rccm.202205-0865OC). ***American journal of respiratory and critical care medicine***, 206(10), 1208–1219.
