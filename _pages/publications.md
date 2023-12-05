@@ -26,6 +26,10 @@ nav_order: 1
 
 ### Articles | *Papers* ###
 
+##### 2024 ####
+
+- **Feuillet T.**, Cossart E., Charreire H., Banos A., Pilkington H., Chasles V., Hercberg S., Touvier M., Oppert J.M., (accepted). Hybridising geographically weighted regression and multilevel models: a new approach to capture contextual effects in geographical analyses. ***Geographical analysis***, *in press*.
+
 ##### 2023 ####
 
 - Charreire H., Conti B., Bauchard L., Cissé N.A., Perignon M., Rollet P., Perrin C., Blanchard S., Roda C., **Feuillet T.**, Madelin M., Dupuis V., Evrard A., Hellequin A., Coll I., Larrue C., Baudet-Michel S., Vernouillet G., Ntsame-Abegue F., Fabre I., Méjean C., Oppert J.M., 2023. [A natural experiment to assess how urban interventions in lower socioeconomic areas influence health behaviors: The UrbASanté study](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-023-15388-2). ***BMC public health***, 23, 498.
