@@ -28,7 +28,7 @@ nav_order: 1
 
 ##### 2024 ####
 
-- **Feuillet T.**, Cossart E., Charreire H., Banos A., Pilkington H., Chasles V., Hercberg S., Touvier M., Oppert J.M., 2024. [Hybridising geographically weighted regression and multilevel models: a new approach to capture contextual effects in geographical analyses](https://onlinelibrary.wiley.com/share/author/AXJG6SSFFITDSHCNWBYW?target=10.1111/gean.12385). ***Geographical analysis***, 56(3), 554-572.
+- **Feuillet T.**, Cossart E., Charreire H., Banos A., Pilkington H., Chasles V., Hercberg S., Touvier M., Oppert J.M., 2024. [Hybridising geographically weighted regression and multilevel models: a new approach to capture contextual effects in geographical analyses](https://onlinelibrary.wiley.com/share/author/AXJG6SSFFITDSHCNWBYW?target=10.1111/gean.12385). ***Geographical analysis***, 56(3), 554–572.
 
 - Fuentes-Vallejo M., Rican S., **Feuillet T.**, Quintero J., Godard V., 2024. Persistance territoriale de la dengue dans un espace urbain hyperendémique en Colombie. ***Suds***, 288.
 
