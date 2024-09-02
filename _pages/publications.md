@@ -28,6 +28,8 @@ nav_order: 1
 
 ##### 2024 ####
 
+- Duvil J., **Feuillet T.**, Emmanuel E., Paul B., 2024. [Assessing the vulnerability of farming households on the Caribbean island of Hispaniola to climate change](). ***Climate***, *in press*.
+
 - **Feuillet T.**, Charreire H., 2024. [The geographical dimension of daily active mobility](https://dx.doi.org/10.1002/9781394312498.ch5). *In*  Vallée J. (ed.), *Everyday mobility and health*, Wiley - ISTE, 143-170.
 
 - **Feuillet T.**, Cossart E., Charreire H., Banos A., Pilkington H., Chasles V., Hercberg S., Touvier M., Oppert J.M., 2024. [Hybridising geographically weighted regression and multilevel models: a new approach to capture contextual effects in geographical analyses](https://onlinelibrary.wiley.com/share/author/AXJG6SSFFITDSHCNWBYW?target=10.1111/gean.12385). ***Geographical analysis***, 56(3), 554–572.
