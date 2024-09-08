@@ -28,7 +28,7 @@ nav_order: 1
 
 ##### 2024 ####
 
-- Duvil J., **Feuillet T.**, Emmanuel E., Paul B., 2024. [Assessing the vulnerability of farming households on the Caribbean island of Hispaniola to climate change](). ***Climate***, *in press*.
+- Duvil J., **Feuillet T.**, Emmanuel E., Paul B., 2024. [Assessing the vulnerability of farming households on the Caribbean island of Hispaniola to climate change](https://doi.org/10.3390/cli12090138). ***Climate***, 12(9), 138.
 
 - **Feuillet T.**, Charreire H., 2024. [The geographical dimension of daily active mobility](https://dx.doi.org/10.1002/9781394312498.ch5). *In*  Vallée J. (ed.), *Everyday mobility and health*, Wiley - ISTE, 143-170.
 
