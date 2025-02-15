@@ -36,7 +36,7 @@ nav_order: 1
 
 - Fuentes-Vallejo M., Rican S., **Feuillet T.**, Quintero J., Godard V., 2024. [Persistance territoriale de la dengue dans un espace urbain hyperendémique en Colombie](https://journals.openedition.org/suds/680). ***Suds***, 288.
 
-- Mangeney C., Pilkington H., **Feuillet T.**, Féron V., Goupil de Bouillé J., Telle-Lamberton M., Saunal A., Julia C., Rican S., 2024. [Distribution de la surmortalité toutes causes en première vague d’épidémie de Covid-19 à l’échelle des intercommunalités franciliennes : quel lien avec les caractéristiques urbaines et sociales des territoires en Ile-de-France ?](https://journals.openedition.org/eps/14458). ***Espace populations sociétés***, 2023/3-2024/1.
+- Mangeney C., Pilkington H., **Feuillet T.**, Féron V., Goupil de Bouillé J., Telle-Lamberton M., Saunal A., Julia C., Rican S., 2024. [Distribution de la surmortalité toutes causes en première vague d’épidémie de Covid-19 à l’échelle des intercommunalités franciliennes : quel lien avec les caractéristiques urbaines et sociales des territoires en Île-de-France ?](https://journals.openedition.org/eps/14458). ***Espace populations sociétés***, 2023/3-2024/1.
 
 ##### 2023 ####
 
