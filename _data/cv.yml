@@ -69,6 +69,12 @@
 - title: Projets en cours | <i>Current projects</i>
   type: time_table
   contents:
+    - title: ECOTONES
+      institution: Région Normandie | FEDER (label excellence)
+      year: 2025-2026
+      description:
+        - Comprendre les liens entre la dynamique des écotones et la biodiversité pour mieux conserver et restaurer les milieux.
+        - UMR IDEES, UMR DYNAFOR, UMR CEFE, UMR EVA.
     - title: ANR SpatialTreeP
       institution:
       year: 2022-2024

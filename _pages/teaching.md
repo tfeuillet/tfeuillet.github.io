@@ -8,10 +8,12 @@ nav_order: 5
 ---
 ### Site pédagogique (statistique et R)
 
-[**https://tfeuillet.gitpages.huma-num.fr/cours/**](https://tfeuillet.gitpages.huma-num.fr/cours/)
+[https://tfeuillet.gitpages.huma-num.fr/cours/](https://tfeuillet.gitpages.huma-num.fr/cours/)
+
+
 
 ### Depuis 2022
-- Méthodes et techniques du diagnostic environnemental ()[M2](https://uniform.unicaen.fr/catalogue/formation/master/7032-master-geo.--amenagement--envt.-et-developpement-p.-environnement--risques-et-diagnostics-territoriaux?s=SEGGAT)) - 22h
+- Méthodes et techniques du diagnostic environnemental ([M2](https://uniform.unicaen.fr/catalogue/formation/master/7032-master-geo.--amenagement--envt.-et-developpement-p.-environnement--risques-et-diagnostics-territoriaux?s=SEGGAT)) - 22h
 - Systèmes d'information géographique (L2) - 48h
 - Systèmes d'information géographique et analyse spatiale ([licence professionnelle SIG-DAT](http://seggat.unicaen.fr/inscription-et-formations-2016/licence-professionnelle-sig-dat/)) - 35h
 - Concepts et méthodes de l'analyse spatiale (L3) - 25h
