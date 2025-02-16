@@ -11,7 +11,10 @@
 - title: Responsabilités collectives
   type: time_table
   contents:
-    - title: Membre élu au CNU
+    - title: Directeur adjoint de l'UFR [SEGGAT](https://ufr-seggat.unicaen.fr/)
+      institution: Université de Caen
+      year: 2025 -
+    - title: Membre élu au conseil national des universités
       institution:
       year: 2023 - 2027
       description:
@@ -19,14 +22,9 @@
 
     - title: Délégué scientifique à CNRS Ecologie & environnement
       institution: Section 31
-      year: 2023-
+      year: 2023 -
 
-    - title: Maître de conférences | <i>Associate professor</i>
-      institution: Université Paris 8 Vincennes-Saint-Denis - Département de géographie
-      year: 2015-2022
-      description:
-        - Membre de l'UMR CNRS 7533 LADYSS.
-        - Enseignements en géomatique, statistiques et géographie physique.
+
 
 - title: Parcours | <i>Experience</i>
   type: time_table
