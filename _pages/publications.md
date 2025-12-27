@@ -26,6 +26,10 @@ nav_order: 1
 
 ### Articles | *Papers* ###
 
+##### 2026 ####
+
+- Birre D., **Feuillet T.**, Milian J., Theureaux O., Passy P., Serrano-Notivoli R., Barbaro L., Vignal M., Bader M., accepted. Drivers of alpine-treeline ecotone dynamics in the Pyrenees. *Science of the total environment*.
+
 ##### 2024 ####
 
 - Duvil J., **Feuillet T.**, Emmanuel E., Paul B., 2024. [Assessing the vulnerability of farming households on the Caribbean island of Hispaniola to climate change](https://doi.org/10.3390/cli12090138). ***Climate***, 12(9), 138.
