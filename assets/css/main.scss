@@ -13,3 +13,10 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+.project-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
