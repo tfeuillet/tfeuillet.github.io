@@ -26,9 +26,17 @@ nav_order: 1
 
 ### Articles | *Papers* ###
 
+##### In revision ####
+
+- **Feuillet T.**, Moreno-Garcia P., Birre D., Keurinck L., Milian J., Serrano-Notivoli R., Vignal M., Cauchoix M., Hagimont S., Theureaux O., Sheeren D., Morin X., Barbaro L. In revision. Global warming, local responses: Why treelines do not respond uniformly to climate change. ***Global ecology and biogeography***.
+
 ##### 2026 ####
 
-- Birre D., **Feuillet T.**, Milian J., Theureaux O., Passy P., Serrano-Notivoli R., Barbaro L., Vignal M., Bader M., accepted. Drivers of alpine-treeline ecotone dynamics in the Pyrenees. *Science of the total environment*.
+- Birre D., **Feuillet T.**, Milian J., Theureaux O., Passy P., Serrano-Notivoli R., Barbaro L., Vignal M., Bader M., accepted. Drivers of alpine-treeline ecotone dynamics in the Pyrenees. ***Science of the total environment***.
+
+##### 2025 ####
+
+- Temam S., Billaudeau N., Le Guern M., Boudier A., Deguen S., **Feuillet, T.**, ... & Varraso R., 2025. Individual determinants of residential mobility over a 20-year follow-up period (EGEA study). ***European Journal of Public Health***, 35 (Supplement_4), ckaf161-1335.
 
 ##### 2024 ####
 

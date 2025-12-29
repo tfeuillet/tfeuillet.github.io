@@ -4,7 +4,7 @@ title: transfood
 description: Food transitions for human and planetary health – TRANSFood
 img: assets/img/tf.PNG
 <!-- redirect: https://anr.fr/Project-ANR-21-CE21-0011 -->
-importance: 3
+importance: 4
 category: Current projects
 ---
 

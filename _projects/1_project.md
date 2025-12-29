@@ -3,7 +3,7 @@ layout: page
 title: SpatialTreeP
 description: Dynamique de la forêt subalpine dans les Pyrénées
 img: assets/img/st1.jpg
-importance: 1
+importance: 2
 category: Current projects
 ---
 
