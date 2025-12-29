@@ -20,3 +20,19 @@ $max-content-width: {{ site.max_width }};
   object-fit: cover;
 }
 
+/* Conteneur de la vignette */
+.project-thumb-figure {
+  width: 100%;
+  height: 180px;          /* TAILLE UNIQUE */
+  overflow: hidden;
+  margin: 0;
+}
+
+/* Image */
+.project-thumb {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+

@@ -28,7 +28,9 @@ nav_order: 1
 
 ##### In revision ####
 
-- **Feuillet T.**, Moreno-Garcia P., Birre D., Keurinck L., Milian J., Serrano-Notivoli R., Vignal M., Cauchoix M., Hagimont S., Theureaux O., Sheeren D., Morin X., Barbaro L. In revision. Global warming, local responses: Why treelines do not respond uniformly to climate change. ***Global ecology and biogeography***.
+- **Feuillet T.**, Moreno-Garcia P., Birre D., Keurinck L., Milian J., Serrano-Notivoli R., Vignal M., Cauchoix M., Hagimont S., Theureaux O., Sheeren D., Morin X., Barbaro L., *in revision*. Global warming, local responses: Why treelines do not respond uniformly to climate change. ***Global ecology and biogeography***.
+
+- Bulteau J., **Feuillet T.**, Adelé S., *in revision*. Post-COVID modal shift in Paris area: acceleration of ecological transition or a return to square one? ***Travel behavior and society***.
 
 ##### 2026 ####
 
