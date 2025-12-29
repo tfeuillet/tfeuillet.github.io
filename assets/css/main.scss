@@ -20,16 +20,23 @@ $max-content-width: {{ site.max_width }};
   object-fit: cover;
 }
 
-/* Conteneur de la vignette */
+/* Conteneur */
 .project-thumb-figure {
   width: 100%;
-  height: 180px;          /* TAILLE UNIQUE */
+  height: 180px;
   overflow: hidden;
   margin: 0;
 }
 
-/* Image */
-.project-thumb {
+/* picture doit remplir le conteneur */
+.project-thumb-figure picture {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* image */
+.project-thumb-figure img {
   width: 100%;
   height: 100%;
   object-fit: cover;
