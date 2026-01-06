@@ -34,7 +34,7 @@ nav_order: 1
 
 ##### 2026 ####
 
-- Birre D., **Feuillet T.**, Milian J., Theureaux O., Passy P., Serrano-Notivoli R., Barbaro L., Vignal M., Bader M., accepted. Drivers of alpine-treeline ecotone dynamics in the Pyrenees. ***Science of the total environment***.
+- Birre D., **Feuillet T.**, Milian J., Theureaux O., Passy P., Serrano-Notivoli R., Barbaro L., Vignal M., Bader M., 2026. [Drivers of alpine-treeline ecotone dynamics in the Pyrenees](https://doi.org/10.1016/j.scitotenv.2025.181318). ***Science of the total environment***, 1013, 181318.
 
 ##### 2025 ####
 
