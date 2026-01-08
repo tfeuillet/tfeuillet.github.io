@@ -34,11 +34,13 @@ nav_order: 1
 
 ##### 2026 ####
 
+- Gakou M., Souhil T., Barragan-Jason G., **Feuillet T.**, Betard F., Cauchoix M., accepted. Unveiling the spatial link between geodiversity and biodiversity: a multi-taxon study in the South of France. ***Landscape ecology***.
+
 - Birre D., **Feuillet T.**, Milian J., Theureaux O., Passy P., Serrano-Notivoli R., Barbaro L., Vignal M., Bader M., 2026. [Drivers of alpine-treeline ecotone dynamics in the Pyrenees](https://doi.org/10.1016/j.scitotenv.2025.181318). ***Science of the total environment***, 1013, 181318.
 
 ##### 2025 ####
 
-- Temam S., Billaudeau N., Le Guern M., Boudier A., Deguen S., **Feuillet, T.**, ... & Varraso R., 2025. Individual determinants of residential mobility over a 20-year follow-up period (EGEA study). ***European Journal of Public Health***, 35 (Supplement_4), ckaf161-1335.
+- Temam S., Billaudeau N., Le Guern M., Boudier A., Deguen S., **Feuillet, T.**, ... & Varraso R., 2025. Individual determinants of residential mobility over a 20-year follow-up period (EGEA study). ***European journal of public health***, 35 (Supplement_4), ckaf161-1335.
 
 ##### 2024 ####
 
