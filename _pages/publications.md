@@ -34,6 +34,8 @@ nav_order: 1
 
 ##### 2026 ####
 
+- Lefebvre L., Marion E., Prédali F. ViolaM., **Feuillet T.**, MomasI., Roda C., accepted. Does urban environment at birth and adolescence affect cardiometabolic morbidity in adolescents? Results from the PARIS birth cohort study. ***Health & place***.
+
 - Gakou M., Souhil T., Barragan-Jason G., **Feuillet T.**, Betard F., Cauchoix M., accepted. Unveiling the spatial link between geodiversity and biodiversity: a multi-taxon study in the South of France. ***Landscape ecology***.
 
 - Birre D., **Feuillet T.**, Milian J., Theureaux O., Passy P., Serrano-Notivoli R., Barbaro L., Vignal M., Bader M., 2026. [Drivers of alpine-treeline ecotone dynamics in the Pyrenees](https://doi.org/10.1016/j.scitotenv.2025.181318). ***Science of the total environment***, 1013, 181318.
