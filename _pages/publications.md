@@ -34,7 +34,7 @@ nav_order: 1
 
 ##### 2026 ####
 
-- Lefebvre L., Marion E., Prédali F. ViolaM., **Feuillet T.**, MomasI., Roda C., accepted. Does urban environment at birth and adolescence affect cardiometabolic morbidity in adolescents? Results from the PARIS birth cohort study. ***Health & place***.
+- Lefebvre L., Marion E., Prédali F. Viola M., **Feuillet T.**, Momas I., Roda C., 2026. [Does urban environment at birth and adolescence affect cardiometabolic morbidity in adolescents? Results from the PARIS birth cohort study](https://www.sciencedirect.com/science/article/pii/S135382922600016X?dgcid=rss_sd_all). ***Health & place***, 98, 103622.
 
 - Gakou M., Souhil T., Barragan-Jason G., **Feuillet T.**, Betard F., Cauchoix M., accepted. Unveiling the spatial link between geodiversity and biodiversity: a multi-taxon study in the South of France. ***Landscape ecology***.
 
