@@ -28,11 +28,11 @@ nav_order: 1
 
 ##### In revision ####
 
-- **Feuillet T.**, Moreno-Garcia P., Birre D., Keurinck L., Milian J., Serrano-Notivoli R., Vignal M., Cauchoix M., Hagimont S., Theureaux O., Sheeren D., Morin X., Barbaro L., *in revision*. Global warming, local responses: Why treelines do not respond uniformly to climate change. ***Global ecology and biogeography***.
-
 - Bulteau J., **Feuillet T.**, Adelé S., *in revision*. Post-COVID modal shift in Paris area: acceleration of ecological transition or a return to square one? ***Travel behavior and society***.
 
 ##### 2026 ####
+
+- **Feuillet T.**, Moreno-Garcia P., Birre D., Keurinck L., Milian J., Serrano-Notivoli R., Vignal M., Cauchoix M., Hagimont S., Theureaux O., Sheeren D., Morin X., Barbaro L., *accepted*. Global warming, local responses: Why treelines do not respond uniformly to climate change in the Pyrenees. ***Global ecology and biogeography***.
 
 - Lefebvre L., Marion E., Prédali F. Viola M., **Feuillet T.**, Momas I., Roda C., 2026. [Does urban environment at birth and adolescence affect cardiometabolic morbidity in adolescents? Results from the PARIS birth cohort study](https://www.sciencedirect.com/science/article/pii/S135382922600016X?dgcid=rss_sd_all). ***Health & place***, 98, 103622.
 
