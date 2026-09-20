@@ -28,7 +28,11 @@ nav_order: 1
 
 ##### In revision ####
 
+- Heydorff-Decaux T., Clevenot L., Petit A., **Feuillet T.**, Clauzel C., *in revision*. Explaining factors of railway non-wildlife crossing structures use by ungulates. ***The journal of wildlife management***.
+
 - Bulteau J., **Feuillet T.**, Adelé S., *in revision*. Post-COVID modal shift in Paris area: acceleration of ecological transition or a return to square one? ***Travel behavior and society***.
+
+- Laso-Jadart R., Gay E., **Feuillet T.**, Pisanu B., Petit S., Bed'hom B., Lalis A., Mona S., *in revision*.	Urban population genetics of Rattus norvegicus in Paris. ***Heredity***.
 
 ##### 2026 ####
 
@@ -36,9 +40,11 @@ nav_order: 1
 
 - Lefebvre L., Marion E., Prédali F. Viola M., **Feuillet T.**, Momas I., Roda C., 2026. [Does urban environment at birth and adolescence affect cardiometabolic morbidity in adolescents? Results from the PARIS birth cohort study](https://www.sciencedirect.com/science/article/pii/S135382922600016X?dgcid=rss_sd_all). ***Health & place***, 98, 103622.
 
-- Gakou M., Souhil T., Barragan-Jason G., **Feuillet T.**, Betard F., Cauchoix M., accepted. Unveiling the spatial link between geodiversity and biodiversity: a multi-taxon study in the South of France. ***Landscape ecology***.
+- Gakou M., Souhil T., Barragan-Jason G., **Feuillet T.**, Betard F., Cauchoix M., 2026. [Unveiling the spatial link between geodiversity and biodiversity: a multi-taxon study in the South of France](https://link.springer.com/article/10.1007/s10980-026-02330-1). ***Landscape ecology***, 41(81).
 
 - Birre D., **Feuillet T.**, Milian J., Theureaux O., Passy P., Serrano-Notivoli R., Barbaro L., Vignal M., Bader M., 2026. [Drivers of alpine-treeline ecotone dynamics in the Pyrenees](https://doi.org/10.1016/j.scitotenv.2025.181318). ***Science of the total environment***, 1013, 181318.
+
+- Duvil, J., **Feuillet, T.**, Bernadin, A. C., Paul, B., & Emmanuel, E. (2026). [Quantifying the gap between the local perceptions of farming households and what experts say about climate change in Haiti and the Dominican Republic](https://www.mdpi.com/2076-3298/13/8/442). ***Environments***, 13(8), 442.
 
 ##### 2025 ####
 
