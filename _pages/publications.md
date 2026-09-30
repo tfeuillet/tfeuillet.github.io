@@ -30,13 +30,13 @@ nav_order: 1
 
 - Heydorff-Decaux T., Clevenot L., Petit A., **Feuillet T.**, Clauzel C., *in revision*. Explaining factors of railway non-wildlife crossing structures use by ungulates. ***The journal of wildlife management***.
 
-- Bulteau J., **Feuillet T.**, Adelé S., *in revision*. Post-COVID modal shift in Paris area: acceleration of ecological transition or a return to square one? ***Travel behavior and society***.
+- Bulteau J., **Feuillet T.**, Adelé S., *in revision*. Post-COVID modal shift in Paris area: acceleration of ecological transition or a return to square one? ***Journal of urban mobility***.
 
 - Laso-Jadart R., Gay E., **Feuillet T.**, Pisanu B., Petit S., Bed'hom B., Lalis A., Mona S., *in revision*.	Urban population genetics of Rattus norvegicus in Paris. ***Heredity***.
 
 ##### 2026 ####
 
-- **Feuillet T.**, Moreno-Garcia P., Birre D., Keurinck L., Milian J., Serrano-Notivoli R., Vignal M., Cauchoix M., Hagimont S., Theureaux O., Sheeren D., Morin X., Barbaro L., *accepted*. Global warming, local responses: Why treelines do not respond uniformly to climate change in the Pyrenees. ***Global ecology and biogeography***.
+- **Feuillet T.**, Moreno-Garcia P., Birre D., Keurinck L., Milian J., Serrano-Notivoli R., Vignal M., Cauchoix M., Hagimont S., Theureaux O., Sheeren D., Morin X., Barbaro L., 2026. [Global warming, local responses: Why treelines do not respond uniformly to climate change in the Pyrenees](https://onlinelibrary.wiley.com/doi/10.1111/geb.70311). ***Global ecology and biogeography***, 35(10), e70311.
 
 - Lefebvre L., Marion E., Prédali F. Viola M., **Feuillet T.**, Momas I., Roda C., 2026. [Does urban environment at birth and adolescence affect cardiometabolic morbidity in adolescents? Results from the PARIS birth cohort study](https://www.sciencedirect.com/science/article/pii/S135382922600016X?dgcid=rss_sd_all). ***Health & place***, 98, 103622.
 
