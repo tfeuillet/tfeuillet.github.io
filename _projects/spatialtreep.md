@@ -7,7 +7,7 @@ importance: 2
 category: Current projects
 ---
 
-- ANR | 2022-2025
+- ANR | 2022-2024
 
 - **Coordination : T. Feuillet (Univ. Caen, UMR IDEES)**
 

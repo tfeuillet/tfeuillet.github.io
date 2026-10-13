@@ -11,5 +11,5 @@ category: Current projects
 
 - **Coordination : T. Feuillet (Univ. Caen, UMR IDEES)**
 
-- Participants : L. Keurinck, P. Moreno-Garcia, A. Farruggia
+- Participants : L. Keurinck, P. Moreno-Garcia, A. Farruggia, M. Vignal, P. Savary, A. Thiriet, R. Lagalis, D. Delahaye, T. Gaubert, D. Sheeren
 
