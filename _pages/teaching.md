@@ -6,10 +6,9 @@ description:
 nav: true
 nav_order: 5
 ---
-### Site pédagogique (statistique et R)
+### Site pédagogique (statistique et analyse spatiale en R)
 
-[https://tfeuillet.gitpages.huma-num.fr/cours/](https://tfeuillet.gitpages.huma-num.fr/cours/)
-
+[https://tfeuillet.gitpages.huma-num.fr/analyse_spatiale/](https://tfeuillet.gitpages.huma-num.fr/analyse_spatiale/)
 
 
 ### Depuis 2022
