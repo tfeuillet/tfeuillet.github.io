@@ -12,7 +12,7 @@ Ces cartes interactives prolongent mes travaux d'analyse spatiale vers un public
 <div class="row mt-5">
   <div class="col-md-5 mb-3">
     <a href="https://tfeuillet.github.io/france_injustices/">
-      <img src="{{ '/assets/img/outils/injustices.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Carte des injustices territoriales en France">
+      <img src="{{ '/assets/img/injustices_double_epci.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Carte des injustices territoriales en France">
     </a>
   </div>
   <div class="col-md-7">
@@ -29,7 +29,7 @@ Ces cartes interactives prolongent mes travaux d'analyse spatiale vers un public
 <div class="row mt-5">
   <div class="col-md-5 mb-3">
     <a href="https://tfeuillet.github.io/france_regions/">
-      <img src="{{ '/assets/img/outils/regions.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Carte des régionalisations alternatives de la France">
+      <img src="{{ '/assets/img/outils_regions.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Carte des régionalisations alternatives de la France">
     </a>
   </div>
   <div class="col-md-7">
